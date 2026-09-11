@@ -1,4 +1,4 @@
-# [YOUR NAME]
+# [ARVIND KUMAR]
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0F172A&center=true&vCenter=true&width=700&lines=Software+Engineer;Java+Developer;Backend+Developer;Problem+Solver" alt="Typing SVG" />
